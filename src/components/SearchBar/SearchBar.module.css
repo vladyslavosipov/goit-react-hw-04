@@ -1,0 +1,16 @@
+.form {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    background-color: #600aeb;
+    padding: 24px;
+  }
+  .input {
+    width: 50vh;
+  }
+  .button {
+    border-radius: 8px;
+    background-color: blue;
+    color: aliceblue;
+    padding: 10px;
+  }

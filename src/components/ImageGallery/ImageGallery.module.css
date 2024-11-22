@@ -1,0 +1,11 @@
+.imageGallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    list-style: none;
+  }
+  
+  .ImageGalleryItem {
+    width: calc(100% - 48px) / 4;
+    overflow: hidden;
+  }
